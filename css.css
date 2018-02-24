@@ -1,0 +1,151 @@
+div#head, #header
+{
+background-color:#3b5998;
+background-size: 100%;
+background-position:center top;
+height:70px;
+background-repeat:no-repeat;
+padding: 5px;
+
+}
+
+
+
+a#menu:link{text-decoration:none;font-weight:bold;}
+a#menu:visited {text-decoration:none;font-weight:bold;} 
+a#menu:hover {text-decoration:none;font-weight:bold;}   
+a#menu:active {text-decoration:none;font-weight:bold;}
+a#menu:link {color:white;} 
+a#menu:visited {color:white;}
+a#menu:hover {color:white;}  
+
+span#friendbook
+{
+color:#ffffff;
+font-size:35px;
+position:absolute;
+left:60px;
+top:24px;
+}
+div#log
+{
+position:absolute;
+left:800px;
+top:15px;
+}
+
+span#email
+{
+font-size:15px;
+color:#ffffff;
+position:absolute;
+left:3px;
+top:9px;
+}
+
+span#pass
+{
+font-size:15px;
+color:#ffffff;
+position:relative;
+left:3px;
+top:7px;
+}
+
+#submit
+{
+background: #5870A8; 
+background-image:-webkit-linear-gradient(top, #637BAD, #4F67A4); 
+padding: 8px 25px; 
+font-size: 8px; 
+border: 1px solid #1D3871; 
+letter-spacing: 1px;
+color: #fff; 
+width: 15px; 
+line-height:1px; 
+font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;
+-moz-box-shadow: 1px 1px 3px #1D3871; 
+-webkit-box-shadow: 1px 1px 3px #1D3871;
+box-shadow: 1px 1px 3px #1D3871; 
+cursor: pointer;
+}
+
+body
+{background: #edf0f5;
+background-size: 100%;
+background-position:center top;
+background-repeat:no-repeat;
+}
+
+
+
+div#form
+{
+background: #fff;
+background-size: 100%;
+background-position:center top;
+width: 350px;
+height:420px;
+background-repeat:no-repeat;
+float:center;
+position:absolute;
+top:80px;
+left:-230px;
+border:1px solid #d3d3d3; 
+}
+span#welcome
+{
+font-size:25px;
+color:#000000;
+position:relative;
+left:50px;
+top:25px;
+}
+
+span#connect
+{
+font-size:15px;
+color:#999999;
+position:relative;
+left:35px;
+top:35px;
+}
+
+div#formin
+{
+position:relative;
+top:50px;
+left:10px;
+ }
+
+span#terms
+{
+font-size:10px;
+color:#999999;
+position:relative;
+left:50px;
+top:50px;
+
+}
+
+#signin
+{
+background: #5870A8; 
+background-image:-webkit-linear-gradient(top, #637BAD, #4F67A4); 
+padding: 18px 135px; 
+font-size: 13px; 
+border: 1px solid #1D3871; 
+letter-spacing: 1px;
+color: #fff; 
+width: 5px; 
+line-height:1px; 
+font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;
+-moz-box-shadow: 1px 1px 3px #1D3871; 
+-webkit-box-shadow: 1px 1px 3px #1D3871;
+box-shadow: 1px 1px 3px #1D3871; 
+cursor: pointer;
+position:relative;
+left:28px;
+top:8px;
+border-radius:3px;
+}
